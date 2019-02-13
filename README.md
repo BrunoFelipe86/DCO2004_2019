@@ -1,4 +1,4 @@
-# Material didático para o DCO2004: Laboratório de Prototipagem de Sistemas de Comunicações (2017.2)
+# Material didático para o DCO2004: Laboratório de Prototipagem de Sistemas de Comunicações (2019.1)
 
 # UNIDADE I
 
@@ -23,6 +23,8 @@
 - Editar o README.md
 
 ### [Entregáveis do Hands-on 00](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h00_relatorio.ipynb)
+
+<!---
 
 ## Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics)
 
@@ -148,6 +150,8 @@
 
 ### [Entregáveis do Hands-on 09](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h09_relatorio.ipynb)
 
+
+
 # UNIDADE III
 
 ## Hands-on 10: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho)
@@ -168,3 +172,5 @@
 - Demonstrar o processo de demultiplexação OFDM em canais AWGN.
 
 ### [Entregáveis do Hands-on 11](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h11_relatorio.ipynb)
+
+-->
