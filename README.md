@@ -9,13 +9,13 @@
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 14.04 no Windows
 
-### [Básico do Jupyter Notebook: Instalação e prática](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h00_BJ.ipynb)
+### [Básico do Jupyter Notebook: Instalação e prática](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h00_BJ.ipynb)
 **Objetivos**
 - Instalar de pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
-### [Github: criação de seu próprio repositório](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h00_GIT.ipynb)
+### [Github: criação de seu próprio repositório](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h00_GIT.ipynb)
 **Objetivos**
 - Cadastramento no GitHub
 - Criar repositorios no GitHub
