@@ -30,8 +30,6 @@
 
 ### [Entregáveis do Hands-on 00](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h00_relatorio.ipynb)
 
-<!---
-
 ## Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics)
 
 ### [O que devemos saber para começar a programar com Matlab](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h01_matlab.ipynb)
@@ -51,6 +49,8 @@
 - Apresentar o processo de Debug (depuração) no Python 3
 
 ### [Entregáveis do Hands-on 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_2019/blob/master/h01_relatorio.ipynb)
+
+<!---
 
 ## Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal)
 
